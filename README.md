@@ -1,6 +1,6 @@
 # redux-examples
 
-> a collection of redux examples, using browserify and budo
+> zero config collection of redux examples, using browserify and budo
 
 [![Dependency Status](https://gemnasium.com/fibo/algebra.svg)](https://gemnasium.com/fibo/algebra)
 
