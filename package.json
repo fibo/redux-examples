@@ -34,6 +34,6 @@
   "devDependencies": {
     "pre-commit": "^1.1.2",
     "standard": "^6.0.8",
-    "zeroconf-redux": "github:fibo/zeroconf-redux"
+    "zeroconf-redux": "^0.1.0"
   }
 }
