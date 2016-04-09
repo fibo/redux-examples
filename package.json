@@ -7,6 +7,7 @@
   "scripts": {
     "check-deps": "npm outdated",
     "example_counter": "budo --serve static/bundle.js -d counter counter/index.js -- -t babelify",
+    "example_todos": "budo --serve static/bundle.js -d todos todos/index.js -- -t babelify",
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
