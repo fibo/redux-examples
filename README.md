@@ -16,6 +16,11 @@ npm install
 npm run example_counter
 ```
 
+Follows available examples:
+
+* counter from [redux/examples/counter](https://github.com/reactjs/redux/tree/master/examples/counter)
+* todos from [redux/examples/todos](https://github.com/reactjs/redux/tree/master/examples/todos)
+
 ## License
 
 [MIT](http://g14n.info/mit-license/)
