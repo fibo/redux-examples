@@ -9,6 +9,7 @@
     "example_counter": "budo --serve static/bundle.js -d counter counter/index.js -- -t babelify",
     "example_todos": "budo --serve static/bundle.js -d todos todos/index.js -- -t babelify",
     "lint": "standard",
+    "postversion": "git push origin v${npm_package_version}",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "pre-commit": [
