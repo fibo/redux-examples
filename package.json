@@ -7,6 +7,7 @@
   "scripts": {
     "check-deps": "npm outdated",
     "example_counter": "budo --serve static/bundle.js -d counter counter/index.js -- -t babelify",
+    "example_particles": "budo --serve static/bundle.js -d particles particles/index.js -- -t babelify",
     "example_todos": "budo --serve static/bundle.js -d todos todos/index.js -- -t babelify",
     "lint": "standard",
     "postversion": "git push origin v${npm_package_version}",
@@ -37,5 +38,8 @@
     "pre-commit": "^1.1.2",
     "standard": "^6.0.8",
     "zeroconf-redux": "^0.1.0"
+  },
+  "dependencies": {
+    "d3": "^3.5.16"
   }
 }

@@ -18,8 +18,9 @@ npm run example_counter
 
 Follows available examples:
 
-* counter from [redux/examples/counter](https://github.com/reactjs/redux/tree/master/examples/counter)
-* todos from [redux/examples/todos](https://github.com/reactjs/redux/tree/master/examples/todos)
+* **counter** from [redux/examples/counter](https://github.com/reactjs/redux/tree/master/examples/counter)
+* **todos** from [redux/examples/todos](https://github.com/reactjs/redux/tree/master/examples/todos)
+* **particles** from [Swizec/react-particles-experiment](https://github.com/Swizec/react-particles-experiment)
 
 ## License
 
